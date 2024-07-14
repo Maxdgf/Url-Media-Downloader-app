@@ -1,5 +1,5 @@
 # Url-Media-Downloader-app
-Приложение способное скачивать медиа по url адресу  помощью download manager
+An application capable of downloading media by url using download manager
 
 ![](screen1.jpg)
 
